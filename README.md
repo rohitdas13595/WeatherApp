@@ -13,9 +13,11 @@
 [<img align="left" alt="Rohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 ### Steps to run the project in your Machine:
+
 - Install node Js(If not Installed).
--Set up the API keys into your root>config>dev.env
+- Set up the API keys into your root>config>dev.env
 - Run npm install from root directory.
 - Install development dependencies 
 - Run the project using npm run start or npm run dev(for development servers)
