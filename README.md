@@ -13,8 +13,14 @@
 [<img align="left" alt="Rohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+### Steps to run the project in your Machine:
+- Install node Js(If not Installed).
+-Set up the API keys into your root>config>dev.env
+- Run npm install from root directory.
+- Install development dependencies 
+- Run the project using npm run start or npm run dev(for development servers)
 
-### Languages and Tools:
+### Languages and Tools used for this project:
 
 [<img align="left" alt="Node Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />][nodejs]
 [<img align="left" alt="Express" width="22px" src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png" />][expressjs]
@@ -22,6 +28,7 @@
 [<img align="left" alt="Node Js" width="22px" src="https://obedalvarado.pw/blog/wp-content/uploads/2020/04/mapbox-icon-300x300.png" />][mapbox]
 
 <br />
+
 <br />
 
 ---
