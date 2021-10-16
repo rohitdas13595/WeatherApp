@@ -20,7 +20,8 @@
 - Set up the API keys into your root>config>dev.env
 - Run npm install from root directory.
 - Install development dependencies 
-- Run the project using npm run start or npm run dev(for development servers)
+- Run the project using npm run start or npm run dev(for development servers).
+- Handle the errors if any occures.
 
 ### Languages and Tools used for this project:
 
