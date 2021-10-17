@@ -84,4 +84,10 @@ nav a{
 .form-container{
     text-align: center;
 }
+.result{
+    text-align: center;
+}
+.result p{
+    margin: 10px;
+}
 
