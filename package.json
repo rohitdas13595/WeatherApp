@@ -1,6 +1,7 @@
 {
   "name": "webserv",
   "version": "1.0.0",
+  "homepage": "https://rohitdas13595.github.io/Portfolio-React",
   "description": "",
   "main": "./src/app.js",
   "scripts": {
