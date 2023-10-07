@@ -1,6 +1,6 @@
 :root{
     --bg-color : #333;
-    --primary-color: #888;
+    --primary-color: #f59f9f;
     --secondary-color: #ccc;
 }
 *{
@@ -31,6 +31,9 @@ footer {
     padding: 1rem;
     margin-top: 1rem;
     border-top: 2px solid var(--secondary-color);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
 }
 
 header {
@@ -89,5 +92,15 @@ nav a{
 }
 .result p{
     margin: 10px;
+}
+
+li a{
+    padding: 10px;
+}
+
+li  a:hover{
+    background: #f59f9f;
+    border-radius: 10px;
+    
 }
 
